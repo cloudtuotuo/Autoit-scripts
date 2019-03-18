@@ -15,7 +15,7 @@
 #include <IE.au3>
 #include <Clipboard.au3>
 #include <GDIPlus.au3>
-#include <JY_OCR.au3>
+#include <JY_OCR.au3>	; Thanks for http://www.jianyiit.com/post-136.html
 #include <Json.au3>
 #include <GUIConstantsEx.au3>
 #include <StaticConstants.au3>
